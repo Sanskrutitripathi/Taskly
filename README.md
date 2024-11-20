@@ -1,6 +1,6 @@
 # Taskly - Task Management System
 
-![NiftyNet Logo](images/nn1.png)
+![img](images/t.png)
 
 Taskly is a full-stack web application built with the MERN stack (MongoDB, Express, React, Node.js) that allows users to manage tasks effectively. It provides a platform for creating, updating, viewing, and deleting tasks. 
 
